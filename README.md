@@ -35,8 +35,7 @@ Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi DevOps Eng
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afarkaztar&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Afarkaztar&theme=dark&mode=weekly)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Afarkaztar&show_icons=true&theme=radical)
 
 </div>
