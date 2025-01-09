@@ -4,7 +4,7 @@
 
 # 👋 Hi there! 
 
-Saya seorang DevOps Engineer yang bersemangat dalam mengotomatisasi dan mengoptimalkan infrastruktur. Saya percaya bahwa otomatisasi yang baik adalah kunci untuk delivery software yang handal dan scalable.
+Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi DevOps Engineer yang bersemangat dalam mengotomatisasi dan mengoptimalkan infrastruktur. Saya percaya bahwa otomatisasi yang baik adalah kunci untuk delivery software yang handal dan scalable.
 
 ## 🛠️ Tech Stack
 
