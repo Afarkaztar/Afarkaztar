@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DevOps%20Engineer&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IT enthusiast%20Engineer&fontSize=90&animation=fadeIn" />
 </div>
 
 # 👋 Hi there! 
 
-Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi DevOps Engineer yang bersemangat dalam mengotomatisasi dan mengoptimalkan infrastruktur. Saya percaya bahwa otomatisasi yang baik adalah kunci untuk delivery software yang handal dan scalable.
+Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi IT enthusiast yang bersemangat dalam mengotomatisasi dan mengoptimalkan infrastruktur. Saya percaya bahwa otomatisasi yang baik adalah kunci untuk delivery software yang handal dan scalable.
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi DevOps Eng
 
 - 🔭 Saat ini saya fokus pada **Cloud Native Technologies & Infrastructure as Code**
 - 🌱 Sedang mempelajari **Service Mesh & GitOps practices**
-- 👯 Terbuka untuk berkolaborasi dalam **proyek open source DevOps**
+- 👯 Terbuka untuk berkolaborasi dalam **proyek open source IT enthusiast**
 - 💬 Tanyakan pada saya tentang **CI/CD, Container Orchestration, & Cloud Infrastructure**
 
 ## 📈 GitHub Stats
