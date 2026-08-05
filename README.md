@@ -1,78 +1,286 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IT enthusiast%20Engineer&fontSize=90&animation=fadeIn" />
-</div>
 
-# 👋 Hi there! 
+<br>
 
-Nama Saya Afarik Rakas Berdi, Saya seorang yang berminat kuat menjadi IT enthusiast yang bersemangat dalam mengotomatisasi dan mengoptimalkan infrastruktur. Saya percaya bahwa otomatisasi yang baik adalah kunci untuk delivery software yang handal dan scalable.
+# Afarik Rakas Berdi
 
-## 🛠️ Tech Stack
+**Computer Engineering Student**
+Infrastructure&nbsp;&nbsp;•&nbsp;&nbsp;Security&nbsp;&nbsp;•&nbsp;&nbsp;Cloud
 
-<div align="center">
+Building secure and reliable systems while continuously learning through
+real-world engineering projects.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B949E)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B949E)](https://www.linkedin.com/in/afarikrakasberdi/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B949E)](mailto:afarikrakasb@gmail.com)
+
+<br>
 
 </div>
 
-## 🚀 Highlights
-
-- 🔭 Saat ini saya fokus pada **Cloud Native Technologies & Infrastructure as Code**
-- 🌱 Sedang mempelajari **Service Mesh & GitOps practices**
-- 👯 Terbuka untuk berkolaborasi dalam **proyek open source IT enthusiast**
-- 💬 Tanyakan pada saya tentang **CI/CD, Container Orchestration, & Cloud Infrastructure**
-
-## 📈 GitHub Stats
-
 <div align="center">
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Afarkaztar&theme=dark&mode=weekly)](https://git.io/streak-stats)
+```
 
+$ whoami
 
+Afarik Rakas Berdi
+Computer Engineering Student
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Afarkaztar&show_icons=true&theme=radical)
+Infrastructure Engineer
+Cloud Enthusiast
+Cybersecurity Learner
+Linux Enthusiast
+CTF Player
+
+$ _
+
+```
 
 </div>
 
-## 🌟 Featured Projects
+<br>
 
-### 🔧 Infrastructure as Code Templates
-Repository berisi kumpulan template Terraform dan Ansible untuk berbagai use case cloud infrastructure.
+## About
 
-### 📊 Monitoring Stack
-Implementasi stack monitoring menggunakan Prometheus, Grafana, dan Alert Manager dengan konfigurasi yang dapat disesuaikan.
+- Computer Engineering student focused on infrastructure and systems
+- Interested in cloud computing and distributed systems
+- Practicing cybersecurity through hands-on labs and CTFs
+- Daily Linux user — administration, scripting, hardening
+- Building automation around infrastructure and deployment workflows
+- Contributing to and learning from open source
+- Currently deepening knowledge in DevSecOps and cloud security
 
-### 🚢 Kubernetes Deployment Patterns
-Contoh-contoh pattern deployment di Kubernetes termasuk blue-green deployment, canary releases, dan progressive delivery.
+<br>
 
-## 📫 Connect with Me
+## Current Focus
+
+- [x] Linux Administration
+- [x] Infrastructure Automation
+- [ ] Docker & Container Orchestration
+- [ ] Kubernetes
+- [ ] DevSecOps Practices
+- [ ] Cloud Infrastructure (AWS / Azure)
+- [x] Security Engineering
+- [x] Incident Response
+- [x] Capture The Flag
+- [x] Networking (CCNA track)
+
+<br>
+
+## Core Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Operating Systems**
+Linux · Ubuntu · Debian · Windows Server
+
+**Programming**
+Python · Go · JavaScript · TypeScript · Bash
+
+**Infrastructure**
+Docker · Git · GitHub Actions · Nginx · Virtualization
+
+</td>
+<td valign="top" width="50%">
+
+**Networking**
+Cisco · MikroTik · TCP/IP · Routing · Switching · VPN
+
+**Cloud**
+AWS · Azure · Cloudflare · VPS · Linux Server
+
+**Security**
+Burp Suite · Nmap · Wireshark · OWASP · Linux Hardening · Metasploit
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Professional Portfolio Website**
+Personal site built to present projects, writeups, and experience.
+
+`Next.js` `TypeScript` `Cloudflare`
+
+[Repository](#) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+**Infrastructure Homelab**
+Self-hosted lab for practicing virtualization, networking, and services.
+
+`Proxmox` `Linux` `Nginx` `Docker`
+
+[Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cloud Deployment Pipeline**
+Automated deployment pipeline for cloud-hosted applications.
+
+`AWS` `GitHub Actions` `Terraform`
+
+[Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+**Linux Automation Toolkit**
+Scripts and playbooks for provisioning and hardening Linux servers.
+
+`Bash` `Python` `Ansible`
+
+[Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Security Tools Collection**
+Utilities built while practicing offensive and defensive security.
+
+`Python` `Nmap` `Bash`
+
+[Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+**POLRI CTF Writeups**
+Documented solutions and methodology from CTF competitions.
+
+`Markdown` `Security Research`
+
+[Repository](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Experience
+
+```
+
+2024 — Present    IPB University
+                  Computer Engineering
+
+2023               PT Qwords
+                  Internship — Linux Server, Hosting Infrastructure,
+                  Cloud Infrastructure, Virtualization
+
+```
+
+<br>
+
+## Achievements
+
+```
+
+Cisco CCNA                         Certified
+Cisco SRWE                         Certified
+POLRI CTF                          Finalist
+Hackathon                          Participant / Award
+
+```
+
+<br>
+
+## Security & CTF
+
+- Active participant in Capture The Flag competitions
+- Practicing on HackTheBox, TryHackMe, Root-Me, and picoCTF
+- Documenting methodology and findings through writeups
+- Regularly working through security labs and challenges
+
+<br>
+
+## Latest Writeups
+
+<table>
+<tr>
+<td width="100%">
+
+**Hardening a Linux Server for Production**
+`Linux` · `2026`
+Practical steps for reducing attack surface on a fresh Linux deployment.
+[Read →](#)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Notes on VPN Routing with MikroTik**
+`Networking` · `2026`
+Configuring and troubleshooting VPN routing in a MikroTik environment.
+[Read →](#)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**POLRI CTF — Web Exploitation Writeup**
+`CTF` · `2025`
+Breakdown of a web exploitation challenge and the reasoning behind the solve.
+[Read →](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Afarkaztar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afarkaztar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afarkaztar&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC&hide_border=true" />
 
 </div>
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Implementing GitOps with ArgoCD and Kubernetes]()
-- [Terraform Best Practices for Production Infrastructure]()
-- [Building Scalable CI/CD Pipelines with Jenkins]()
-<!-- BLOG-POST-LIST:END -->
+<br>
 
----
+## Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logoColor=8B949E&color=161B22&labelColor=0D1117)](https://your-portfolio.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logoColor=8B949E&color=161B22&labelColor=0D1117)](https://linkedin.com/in/your-profile)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logoColor=8B949E&color=161B22&labelColor=0D1117)](mailto:you@example.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-161B22?style=flat-square&logoColor=8B949E&color=161B22&labelColor=0D1117)](#)
+&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-161B22?style=flat-square&logoColor=8B949E&color=161B22&labelColor=0D1117)](#)
+
+<br><br>
+
+<sub>Last updated 2026</sub>
+
 </div>
